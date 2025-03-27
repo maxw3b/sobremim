@@ -1,7 +1,7 @@
 body{
     color: white;
-    background-color: black;
 }
+body { background: linear-gradient(to right, rgb(0, 0, 0), rgb(27, 111, 144) 10%, rgb(30, 109, 141) 90%, rgb(0, 0, 0) 100%); }
 ul{
     display: flex;
     justify-content: space-around;
