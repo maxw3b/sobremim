@@ -6,3 +6,15 @@ ul{
     display: flex;
     justify-content: space-around;
 }
+
+a{
+    color: antiquewhite;
+    text-decoration: none;
+}
+img{
+
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid  #4169E1;
+}
